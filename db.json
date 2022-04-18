@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "first_name": "Ahmad Zaki",
+      "last_name": "Shaikh",
+      "email": "shaikhzaki8@gmail.com",
+      "gender": "male",
+      "age": "27",
+      "tenth_score": "78",
+      "twelth_score": "65",
+      "preferred_branch": "science",
+      "id": 1
+    },
+    {
+      "first_name": "arena",
+      "last_name": "shayek",
+      "email": "arena@gmail.com",
+      "gender": "female",
+      "age": "27",
+      "tenth_score": "78",
+      "twelth_score": "65",
+      "preferred_branch": "science",
+      "id": 2
+    },
+    {
+      "first_name": "zeeshan",
+      "last_name": "shaikh",
+      "email": "a@b.com",
+      "gender": "male",
+      "age": "20",
+      "tenth_score": "80",
+      "twelth_score": "70",
+      "preferred_branch": "commerce",
+      "id": 3
+    }
+  ]
+}
