@@ -47,7 +47,8 @@ export const AddStudent = () => {
 
 
     return (
-          <form className="addstudent" onSubmit={handleSubmit}>
+          <div>
+              <form className="addstudent" onSubmit={handleSubmit}>
         <div>
           Firstname:{" "}
           <input
@@ -172,5 +173,38 @@ export const AddStudent = () => {
           // eg: first name missing, age cannot be greater than 100 etc
         }
       </form>
+
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                    <th>Gender</th>
+                    <th>email</th>
+                    <th>age</th>
+                    <th>tenth score</th>
+                    <th>twelth score</th>
+                    <th>branch</th>
+                </tr>
+            </thead>
+            <tbody>
+                {data[0] && data.map((e) => (
+                    <tr>
+                        <td>{e.first_name}</td>
+                        <td>{e.last_name}</td>
+                        <td>{e.gender}</td>
+                        <td>{e.email}</td>
+                        <td>{e.age}</td>
+                        <td>{e.tenth_score}</td>
+                        <td>{e.twelth_score}</td>
+                        <td>{e.preferred_branch}</td>
+                    </tr>
+                ))}
+            </tbody>
+        </table>
+    </div>
+
+    </div>
     );
   };
