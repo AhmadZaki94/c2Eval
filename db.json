@@ -32,6 +32,61 @@
       "twelth_score": "70",
       "preferred_branch": "commerce",
       "id": 3
+    },
+    {
+      "first_name": "Ahmad Zaki",
+      "last_name": "Shaikh",
+      "email": "shaikhzaki8@gmail.com",
+      "gender": "male",
+      "age": "27",
+      "tenth_score": "78",
+      "twelth_score": "65",
+      "preferred_branch": "science",
+      "id": 4
+    },
+    {
+      "first_name": "noor",
+      "last_name": "jahan",
+      "email": "n@g.com",
+      "gender": "female",
+      "age": "22",
+      "tenth_score": "70",
+      "twelth_score": "65",
+      "preferred_branch": "arts",
+      "id": 5
+    },
+    {
+      "first_name": "bushra",
+      "last_name": "shaikh",
+      "email": "h@b.com",
+      "gender": "female",
+      "age": "20",
+      "tenth_score": "80",
+      "twelth_score": "70",
+      "preferred_branch": "science",
+      "id": 6
+    },
+    {
+      "first_name": "tahera",
+      "last_name": "sYYAD",
+      "email": "R@g.com",
+      "gender": "female",
+      "age": "45",
+      "tenth_score": "45",
+      "twelth_score": "455",
+      "preferred_branch": "commerce",
+      "id": 10
+    },
+    {
+      "first_name": "Ahmad Zaki",
+      "last_name": "Shaikh",
+      "email": "zaki@gmail.com",
+      "gender": "male",
+      "age": "28",
+      "tenth_score": "78",
+      "twelth_score": "65",
+      "preferred_branch": "science",
+      "id": 11
     }
   ]
 }
